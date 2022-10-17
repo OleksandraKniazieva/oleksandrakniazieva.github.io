@@ -105,6 +105,10 @@ footer p {
   width:100%;
   height:auto;
 }
+.insights{
+  width:90%;
+  height:auto;
+}
 .two-column {
   font-size: 19px;
   display: grid;
@@ -131,18 +135,18 @@ footer p {
   margin-left: 10px;
   margin-right: 10px;
   }
-.two-column-mission div {
-    background-color: white;
-    margin-left: 10px;
-    margin-right: 10px;
-  }
 .two-column-mission {
-    font-size: 17px;
-    display: grid;
-    grid-template-columns: 50% 50%;
-    padding: 40px;
-    background-color:white;
-    line-height:36px;
+  font-size: 17px;
+  display: grid;
+  grid-template-columns: 50% 50%;
+  padding: 40px;
+  background-color:white;
+  line-height:36px;
+    }
+.two-column-mission div {
+  background-color: white;
+  margin-left: 10px;
+  margin-right: 10px;
   }
 
 .three-column {
@@ -157,6 +161,6 @@ footer p {
   margin-right: 10px;
 }
 hr{
-  border: 3px white;
+  border: 3px black;
   margin: 0;
 }
