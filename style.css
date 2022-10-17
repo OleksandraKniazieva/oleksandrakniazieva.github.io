@@ -68,6 +68,7 @@ footer p {
   margin: 0;
   color:black;
   font-size: 18px;
+  text-align: center;
 }
 .footer-text a{
   color:white;
@@ -76,18 +77,6 @@ footer p {
 .footer-text span{
   font-family: 'Montserrat', sans-serif;
   margin-left: 80px;
-  color:white;
-  background-color:black;
-  padding:15px 50px;
-}
-
-.footer-text-contacts a{
-  color:white;
-  font-family: 'Montserrat', sans-serif;
-}
-.footer-text-contacts span{
-  font-family: 'Montserrat', sans-serif;
-  margin-left: 200px;
   color:white;
   background-color:black;
   padding:15px 50px;
